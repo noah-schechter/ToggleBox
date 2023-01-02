@@ -1,5 +1,5 @@
 # ToggleBox
-This is the source code for a basic macro pad that uses toggle switches and a small Arduino to execute keyboard macros.
+A basic macro pad that uses toggle switches and a small Arduino to execute keyboard macros.
 
 
 
